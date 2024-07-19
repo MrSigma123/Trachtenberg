@@ -1,0 +1,10 @@
+PROGRAM DESIGN:
+
+The Trachtenberg Speed System of Basic Mathematics
+
+Stable version 0.1 goal:
+- implement rules of multiplication by 2, 3, ... 10, 11
+- tutorial mode
+- practice mode (with timer and solutions)
+
+Further developments will include various further aspects of the method
